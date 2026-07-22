@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "title": "Cham Culture — Khanh Hoa · Living Heritage",
+    "desc": "Living heritage in the Vietnamese flow — a journey to explore Cham culture in Khanh Hoa."
+  },
+  "common": {
+    "heritage_label": "Living Heritage",
+    "home": "Home",
+    "nav_ponagar": "Po Nagar Temple",
+    "nav_hoalai": "Hoa Lai Towers",
+    "nav_poklong": "Po Klong Garai Temple",
+    "nav_porome": "Po Rome Temple",
+    "blog": "Heritage Insights",
+    "nav_aria_label": "Quick switch between spaces",
+    "home_aria": "Back to top",
+    "home_brand_aria": "Back to home",
+    "main_nav_aria": "Main navigation",
+    "ponagar_nav_aria": "Po Nagar Temple navigation",
+    "menu_open": "Open menu",
+    "menu_close": "Close menu",
+    "nav_drawer_aria": "Expanded navigation",
+    "nav_drawer_main": "Cham Culture",
+    "nav_drawer_ponagar": "Po Nagar",
+    "nav_drawer_video": "Video",
+    "seo_nav_aria": "Featured Cham sites",
+    "seo_ponagar": "Po Nagar Cham Towers",
+    "seo_ponagar_alt": "Ponagar Temple",
+    "seo_poklong": "Po Klong Garai Temple",
+    "seo_hoalai": "Hoa Lai Towers",
+    "seo_museum": "Provincial Museum",
+    "footer_brand": "Cham Culture · Khanh Hoa",
+    "footer_tagline": "Living heritage in the Vietnamese flow",
+    "footer_nav_aria": "Footer navigation",
+    "footer_credit": "Digital Heritage Archive · 2026",
+    "footer_dept": "Khanh Hoa Department of Culture, Sports and Tourism",
+    "footer_email": "Email: svhttdl@khanhhoa.gov.vn",
+    "footer_hotline": "Hotline: 0258.3822229",
+    "footer_madeby": "Implemented by: Experts, Khanh Hoa Department of Culture, Sports and Tourism and TDM digital technology",
+    "header_title_nav": "Cham Cultural Heritage in Khanh Hoa Province",
+    "video_lightbox_aria": "Watch video",
+    "video_lightbox_close": "Close video",
+    "heritage_3d_lightbox_aria": "View 3D Heritage",
+    "heritage_3d_lightbox_close": "Close 3D Heritage",
+    "lang_selector_aria": "Select language",
+    "marquee3": {
+      "item1": "Cham Colors",
+      "item2": "Living Heritage",
+      "item3": "Shining through Time",
+      "item4": "Khanh Hoa 2026",
+      "item5": "6th Cham Cultural Festival"
+    }
+  },
+  "main": {
+    "nav": {
+      "khong_gian": "Spaces",
+      "thap_cham": "Cham Towers",
+      "di_san": "Heritage",
+      "hanh_trinh": "Journeys",
+      "video": "Videos"
+    },
+    "hero": {
+      "dateline": "Khanh Hoa · Vietnam · 2026",
+      "title": "Cham Culture",
+      "deck": "Living heritage in the Vietnamese flow",
+      "btn_3d": "3D Heritage",
+      "scroll_cue": "Scroll down"
+    },
+    "features": {
+      "aria_label": "Core values of Cham heritage",
+      "arch_title": "Millennia Architecture",
+      "arch_desc": "Sacred Cham towers",
+      "heritage_title": "Living Heritage",
+      "heritage_desc": "Festivals & arts",
+      "craft_title": "Traditional Craft Villages",
+      "craft_desc": "Bau Truc Pottery · My Nghiep Weaving",
+      "preserve_title": "Sustainable Preservation",
+      "preserve_desc": "Community-owned heritage"
+    },
+    "marquee1": {
+      "item1": "Cham Culture · Khanh Hoa 2026",
+      "item2": "Living Heritage · Kate Festival",
+      "item3": "Po Nagar Towers · Po Klong Garai",
+      "item4": "Bau Truc Pottery · My Nghiep Weaving",
+      "item5": "Welcome to the 6th Cham Cultural Festival"
+    },
+    "intro": {
+      "sr1": "Cham culture is a unique part of the unified and diverse Vietnamese culture.",
+      "sr2": "\"Welcoming the Opening Ceremony of the 6th National Cham Cultural Festival in 2026, Khanh Hoa Province\"",
+      "label": "Heritage Essence",
+      "pull": "Every festival, every dance, every sound of the Ginang drums — is how the community tells its memories, beliefs, and identity."
+    },
+    "ch1": {
+      "label": "HISTORY & CULTURE",
+      "title": "Cham Cultural Space",
+      "deck": "From the sunny towers to today's community",
+      "p1": "The Cham cultural space stretches across many regions, especially in localities where Cham communities reside, such as Khanh Hoa, Gia Lai, Dak Lak, Lam Dong, Tay Ninh, An Giang, and Ho Chi Minh City. Each region brings a unique flavor, creating a diverse cultural mosaic across the highlands, plains, coastal areas, and Southern delta.",
+      "p2": "Within this space, Khanh Hoa stands out as a land rich in Cham imprint with outstanding heritage sites like Po Nagar Temple, Xom Bong community space, traditional festivals, craft villages, and cultural exchange activities. It is a place where heritage is not just observed but actively practiced, performed, passed down, and introduced to domestic and international audiences.",
+      "quote": "\"Heritage is not just observed; it is practiced, performed, and passed down.\"",
+      "img1_caption": "Cham tower space in Khanh Hoa",
+      "img2_caption": "Cham dignitaries performing robe ceremony",
+      "img3_caption": "The community celebrating in the festival after temple rites",
+      "img4_caption": "Traditional sacrificial ceremony in Cham cultural space",
+      "img_gallery_aria": "Heritage image gallery"
+    },
+    "marquee2": {
+      "item1": "Po Nagar Temple",
+      "item2": "Po Klong Garai",
+      "item3": "Hoa Lai Towers",
+      "item4": "Kate Festival",
+      "item5": "Apsara Dance",
+      "item6": "Bau Truc Pottery",
+      "item7": "My Nghiep Brocade Weaving",
+      "item8": "Ginang & Baranung Drums",
+      "item9": "Saranai Oboe",
+      "item10": "Kanhi Violin"
+    },
+    "ch2": {
+      "label": "ARCHITECTURE & BELIEF",
+      "title": "Cham Towers",
+      "deck": "Memories in red brick and faith",
+      "p1": "Cham towers are the prominent symbol of Cham cultural heritage. Structures like Po Nagar, Po Klong Garai, and other Cham tower complexes along the central coast are not only architecturally and artistically valuable but also sacred spaces associated with the community's beliefs, legends, and spiritual life.",
+      "p2": "Each tower is an \"open museum\" preserving the imprint of construction techniques, plastic arts, divine symbols, and community memories. Preserving Cham towers is not just about physical restoration, but also requires safeguarding the surrounding cultural context: rituals, festivals, folk stories, community life, and how the Cham people continue to connect with their heritage.",
+      "img1_caption": "Sunset over Po Nagar Towers",
+      "img2_caption": "Po Klong Garai Temple — a special national monument",
+      "img3_caption": "Hoa Lai Towers — ancient Cham architecture"
+    },
+    "ch3": {
+      "label": "INTANGIBLE HERITAGE",
+      "title": "Intangible Heritage",
+      "deck": "Festivals, music and the hands of artisans",
+      "p1": "Cham culture shines brightly through its intangible heritage: the Kate festival, folk songs, dances, fan dances, water-pot balancing dances, fire dances, Apsara dances, drum dances, scarf dances, and a traditional musical instrument system including Ginang drums, Baranung drums, Saranai oboes, Kanhi violins, gongs, and cymbals.",
+      "p2": "Alongside performing arts, craft villages like Bau Truc pottery and My Nghiep brocade weaving are also vital lifelines of heritage. There, artisans not only create products but also preserve knowledge, skills, aesthetics, and trade memories passed down through generations. Cham heritage must thus be preserved by honoring artisans, creating practice spaces, supporting apprentice training, and bringing traditional values closer to the younger generation.",
+      "tag_aria_label": "Intangible heritage values",
+      "tags": {
+        "tag1": "Traditional Craft",
+        "tag2": "Preserving Knowledge",
+        "tag3": "Honoring Artisans",
+        "tag4": "Public Outreach",
+        "tag5": "Kate Festival",
+        "tag6": "Bau Truc Pottery",
+        "tag7": "My Nghiep Weaving"
+      },
+      "img_caption": "Cham community in traditional rituals"
+    },
+    "ch4": {
+      "label": "HERITAGE TOURISM",
+      "title": "Cham Culture in Heritage Tourism",
+      "deck": "Promoting heritage values",
+      "p1": "Cham culture holds great potential for heritage tourism development through tours to ancient towers, craft villages, festivals, artistic performances, culinary experiences, and community exchanges. Values such as Po Nagar Temple, Po Klong Garai, Bau Truc pottery, My Nghiep weaving, folk music, and dances can become attractive highlights for domestic and international tourists.",
+      "p2": "However, tourism development must go hand in hand with sustainable preservation: respecting sacred spaces, avoiding over-commercialization, and ensuring the participation and benefits of the Cham community. Tourism is only truly valuable when it helps heritage be understood correctly, preserved better, and brings decent livelihoods to the local people.",
+      "img1_caption": "Kareh ritual opening up Cham cultural experiences",
+      "img2_caption": "Artisan introducing traditional pottery products",
+      "img3_caption": "Artisan playing Ginang drum in Kate festival",
+      "img4_caption": "Following ancient towers in Cham travel journey",
+      "img5_caption": "Experiencing the living heritage of Cham community",
+      "img6_caption": "Tourists joining hands to preserve Cham cultural identity"
+    },
+    "quote_break": "Cham heritage only truly lives when the community participates, takes pride in, and benefits from its own cultural values. Preservation is not about keeping the past in a static frame, but about letting Cham culture continue to exist, tell stories, and shine in today's life.",
+    "ch5": {
+      "label": "PROMOTING VALUE",
+      "title": "Preservation & Promotion",
+      "deck": "Letting Cham colors continue to shine",
+      "p1": "Preserving Cham culture in the new era should be viewed from the perspective of sustainable development: maintaining identity, respecting the host community, while creating conditions for heritage to engage in education, cultural tourism, digital media, and creative exchanges. Heritage only truly lives when the community is involved, proud, and benefits from its own cultural values.",
+      "img_caption": "Opening ceremony of Po Nagar Festival with Cham art performance"
+    },
+    "ch6": {
+      "label": "EXPERIENCE JOURNEY",
+      "title": "Travel Journey",
+      "deck": "Three stages — one heritage",
+      "j1_num": "I.",
+      "j1_title": "Following ancient towers",
+      "j1_desc": "Explore sacred Cham tower structures, preserving historical memories, beliefs, and unique architectural imprints.",
+      "j2_num": "II.",
+      "j2_title": "Touching living heritage",
+      "j2_desc": "Experience craft villages, festivals, music, attire, and local Cham community life in indigenous cultural spaces.",
+      "j3_num": "III.",
+      "j3_title": "Preserving identity together",
+      "j3_desc": "Each destination is not just for sightseeing, but to understand, appreciate, and join hands in preserving Cham culture today.",
+      "story": "The Cham cultural tourism journey in Khanh Hoa opens up a trip from the sacred Po Nagar Temple by the Cai River to ancient tower spaces, craft villages, and festivals rich in identity. Tourists admire the red brick architecture, listen to stories about the Mother of the Land, follow the tracks of Po Klong Garai, then touch the living heritage through Bau Truc pottery and My Nghiep brocade weaving. Arriving during Kate season, the journey becomes an encounter with music, rituals, and community. This is not just a sightseeing tour, but an experience of learning to understand, respect, and jointly preserve Cham culture."
+    },
+    "video_section": {
+      "label": "VIDEO LIBRARY",
+      "title": "Video Library",
+      "deck": "See closer — hear deeper",
+      "v1_tag": "YouTube",
+      "v1_title": "Exploring the beauty of Cham tower heritage in Khanh Hoa | THDT",
+      "v1_desc": "Dong Thap Radio and Television's perspective on Cham architectural heritage in Khanh Hoa.",
+      "v1_aria": "Play video: Exploring the beauty of Cham tower heritage in Khanh Hoa | THDT",
+      "v1_img_alt": "Watch video: Exploring the beauty of Cham tower heritage in Khanh Hoa | THDT",
+      "v2_tag": "YouTube",
+      "v2_title": "Cham architecture at Po Nagar Temple",
+      "v2_desc": "Outstanding features in architecture and sculpture of Po Nagar Towers — the most famous Cham monument in Vietnam.",
+      "v2_aria": "Play video: Cham architecture at Po Nagar Temple",
+      "v2_img_alt": "Watch video: Cham architecture at Po Nagar Temple",
+      "v3_tag": "YouTube",
+      "v3_title": "Kate Festival - intangible cultural heritage of Cham people",
+      "v3_desc": "The largest and most unique festival of the Cham people — recognized as a national intangible cultural heritage.",
+      "v3_aria": "Play video: Kate Festival - intangible cultural heritage of Cham people",
+      "v3_img_alt": "Watch video: Kate Festival - intangible cultural heritage of Cham people",
+      "v4_tag": "YouTube",
+      "v4_title": "Discovering the origin and culture of Cham people",
+      "v4_desc": "A journey to discover the history, origin, and unique cultural features of the Cham ethnic group.",
+      "v4_aria": "Play video: Discovering the origin and culture of Cham people",
+      "v4_img_alt": "Watch video: Discovering the origin and culture of Cham people"
+    },
+    "closing": {
+      "label": "DIGITAL AGE",
+      "title": "Spreading Cham Heritage in the Digital Age",
+      "p1": "In the new era, Cham culture needs to be spread through engaging formats such as websites, digital maps, digital exhibitions, documentaries, image libraries, short videos, multilingual narrations, and heritage education programs.",
+      "p2": "Digitization does not replace the original heritage, but helps it be archived, accessed, and spread wider. When ancient towers, festivals, music, craft villages, and community stories are presented vividly in the digital environment, Cham culture will come closer to the younger generation, tourists, and international friends.",
+      "sig": "Cham Colors – Living heritage, shining through time.",
+      "img_caption": "Po Nagar Temple by the Cai River in the evening light"
+    }
+  },
+  "ponagar": {
+    "nav": {
+      "tong_quan": "Overview",
+      "nu_than": "Goddess",
+      "hanh_trinh": "Journey",
+      "thap_chinh": "Main Tower",
+      "le_hoi": "Festival",
+      "home_aria": "Back to top of Po Nagar Temple"
+    },
+    "hero": {
+      "dateline": "Champa Footprints · Khanh Hoa",
+      "title": "Po Nagar Temple",
+      "deck": "The Mother of the Land on Cu Lao Hill"
+    },
+    "features": {
+      "aria_label": "Three layers of meaning of Po Nagar Temple",
+      "mother_title": "Mother",
+      "mother_desc": "Yang Po Inư Nagar — The Mother of the Land of the Cham people.",
+      "land_title": "Land",
+      "land_desc": "Thien Y A Na Holy Mother — the Vietnamized figure of Mother Goddess worship.",
+      "life_title": "Life",
+      "life_desc": "Viet-Cham cultural intersection by the Cai River and coastal Khanh Hoa."
+    },
+    "marquee": {
+      "item1": "Po Nagar Temple · Nha Trang",
+      "item2": "Yang Po Inư Nagar · Thien Y A Na",
+      "item3": "Cu Lao Hill · Cai River",
+      "item4": "Mandapa · Brick Column Row",
+      "item5": "Po Nagar Festival · Living Heritage"
+    },
+    "quote_break": {
+      "label": "LISTENING TO HERITAGE",
+      "quote": "Do not just look at Po Nagar as a sightseeing spot in Nha Trang. Come as a listener — to see the red bricks, the incense smoke, and the Cai River together telling a story of a thousand years."
+    },
+    "ch1": {
+      "label": "CHAMPA FOOTPRINTS",
+      "title": "Po Nagar Temple",
+      "deck": "A space of spirituality, architecture, and community memory",
+      "p1": "Amidst the vibrant life of the coastal city of Nha Trang, Po Nagar Temple stands like an ancient memory, preserving the imprint of Champa culture through architecture, beliefs, sculptures, and festivals. This is not only a famous tourist spot in Khanh Hoa, but also a sacred space associated with the worship of Goddess Ponagar — the Mother of the Land of the Cham people.",
+      "p2": "Looking down from Cu Lao Hill to the Cai River, the monument complex opens up multiple layers of reading: an ancient structure, a place of worship, a meeting point of memory, and a typical cultural symbol of Khanh Hoa today.",
+      "img1_caption": "Panoramic view of Po Nagar on Cu Lao Hill",
+      "img2_caption": "Steps leading up to the temple area",
+      "img3_caption": "Brick columns of Mandapa",
+      "img4_caption": "Reliefs and ancient brick layers",
+      "fact1_num": "VIII–XIII",
+      "fact1_desc": "The main construction phase of the monument, reflecting the brilliant development period of Champa culture.",
+      "fact2_num": "4 towers",
+      "fact2_desc": "The most visible remaining Cham architectural traces in the complex today.",
+      "fact3_num": "20–23/3 Lunar",
+      "fact3_desc": "The annual Po Nagar Temple Festival, where heritage continues to live in the community.",
+      "fact4_num": "2012",
+      "fact4_desc": "Po Nagar Temple Festival was included in the National Intangible Cultural Heritage List.",
+      "img_gallery_aria": "Po Nagar Temple image gallery"
+    },
+    "ch2": {
+      "label": "HISTORY & CULTURE",
+      "title": "Who is Goddess Ponagar?",
+      "deck": "Mother of the Land — from Yang Po Inư Nagar to Thien Y A Na",
+      "p1": "The special feature of Po Nagar is the cultural intersection between Viet and Cham. The Cham belief in worshiping the Mother of the Land was later adopted and Vietnamized by the Viet people into the worship of Thien Y A Na Holy Mother.",
+      "p2": "Therefore, Po Nagar is not just a monument of the Cham people, but also a shared spiritual space, where many generations of Khanh Hoa residents send their faith, gratitude, and wishes for peace.",
+      "p1_label": "Mother",
+      "p1_title": "Yang Po Inư Nagar",
+      "p1_desc": "The figure of the Mother of the Land in Cham belief, associated with creation, protection, and community shielding.",
+      "p2_label": "Land",
+      "p2_title": "Thien Y A Na Holy Mother",
+      "p2_desc": "The adoption and Vietnamization show that Po Nagar is a rare intersection of history, religion, and local residents.",
+      "p3_label": "Life",
+      "p3_title": "Shared Spiritual Space",
+      "p3_desc": "Where Viet-Cham beliefs coexist, continuing through rituals, festivals, and the living memory of the coastal region."
+    },
+    "ch3": {
+      "label": "HISTORY & CULTURE",
+      "title": "Journey to the Land of Heritage",
+      "deck": "Promoting heritage values",
+      "p1": "The location of Po Nagar is very special: on Cu Lao Hill, near the Cai River mouth, looking out to Nha Trang bay. This is the intersection of landscape, settlement, commerce, and belief, belonging to the ancient Kauthara region.",
+      "p2": "The monument dates back to approximately the 8th to 13th centuries, reflecting the brilliant development period of Champa culture in the Central region. Over more than a thousand years, the temple complex still retains its majesty and antiquity, becoming one of the typical cultural and spiritual symbols of Khanh Hoa."
+    },
+    "ch4": {
+      "label": "HISTORY & CULTURE",
+      "title": "Mandapa – Where Rites Begin",
+      "deck": "Unique Architecture",
+      "p1": "Mandapa is a prominent area with large brick columns, creating a sense of solemnity and antiquity. This is believed to be where worshippers prepared offerings before heading up to the temple towers above.",
+      "p2": "The Mandapa space is an ideal stop for visitors to observe Cham brick building techniques, feel the ancient ritual axis, and imagine the ceremonies that once took place here.",
+      "img_caption": "Mandapa — where rites begin",
+      "note1_title": "Ritual axis",
+      "note1_desc": "From preparation space to sacred worship area, the journey is organized very clearly.",
+      "note2_title": "Brick column rows",
+      "note2_desc": "One of the most typical images of Ponagar, giving a sense of antiquity and architectural rhythm.",
+      "note3_title": "Transition space",
+      "note3_desc": "Where visitors can easily recognize how the Cham organized rituals and layered religious spaces."
+    },
+    "ch5": {
+      "label": "HISTORY & CULTURE",
+      "title": "Main Tower – Heart of the Monument",
+      "deck": "Unique Architecture",
+      "p1": "The Main Tower is the central and most important structure in the Po Nagar Temple complex, standing about 23 meters high, outstanding with its soaring shape, ancient red bricks, and characteristic architectural lines of Cham culture.",
+      "p2": "Inside the tower is the statue of Goddess Ponagar — the Mother of the Land in Cham belief, symbol of fertility, protection, blessings, and abundance. To local people, this is not just an ancient architectural work, but a place to send faith, gratitude, and wishes for peace over generations.",
+      "note1_title": "23m",
+      "note1_desc": "Approximate height of the central structure currently remaining in the complex.",
+      "note2_title": "Mother Goddess Statue",
+      "note2_desc": "The focus of spiritual depth, devotion, and rituals of the community.",
+      "note3_title": "Symbol of Khanh Hoa",
+      "note3_desc": "A cultural and spiritual image closely linked to Nha Trang and the Cai River mouth area.",
+      "img_caption": "Main tower and reliefs of deities"
+    },
+    "ch6": {
+      "label": "HISTORY & CULTURE",
+      "title": "Cham Art on Every Single Brick",
+      "deck": "Unique Architecture",
+      "card1_title": "Seamlessly fit baked bricks",
+      "card1_desc": "Special building technique of the Cham people makes the brick blocks fit tightly together, creating a tower surface that is both solid and aesthetically rich.",
+      "card2_title": "False doors & gate arches",
+      "card2_desc": "Details on the tower body create rhythm for the facade, helping visitors feel the logic of Champa architecture.",
+      "card3_title": "Deity patterns",
+      "card3_desc": "Reliefs of dancing Shiva, decorative beasts, Sanskrit steles, and ancient Cham characters make up the artistic and religious depth of the site."
+    },
+    "symbol": {
+      "label": "SYMBOL",
+      "title": "Divine Symbols",
+      "deck": "Shiva, Linga — Yoni and the world of Cham symbols",
+      "p1": "The reliefs of Shiva, the Linga — Yoni symbols, the holy beasts, and patterns on the tower body show Hindu influence in Champa art. But at Po Nagar, these symbols blend into the Mother of the Land belief, creating a very unique nuance.",
+      "card1_title": "Shiva relief",
+      "card1_desc": "The Hindu symbol is clearly present in Champa art, highlighting the sacred meaning of the monument.",
+      "card2_title": "Linga — Yoni",
+      "card2_desc": "Symbol of fertility, blending into the Mother of the Land belief, showing the fusion of symbol and religious practice.",
+      "card3_title": "Tower door decoration",
+      "card3_desc": "Holy beasts and patterns on the tower body open up a visual world rich in symbolic language and cultural signs."
+    },
+    "ch7": {
+      "label": "HISTORY & CULTURE",
+      "title": "Po Nagar Festival – Living Community Heritage",
+      "deck": "Promoting heritage values",
+      "p1": "Every year, the Po Nagar Temple Festival takes place from the 20th to 23rd of the 3rd lunar month. It is an occasion for residents and tourists to turn towards the Mother, participate in traditional rituals, and feel the sacred atmosphere of the heritage.",
+      "p2": "The festival not only revives religious memories, but also contributes to community connection, preserving identity, and spreading Viet-Cham cultural exchange values in today's life.",
+      "rituals_aria_label": "Typical rituals of Po Nagar Festival",
+      "rituals": {
+        "rit1": "Robing ceremony",
+        "rit2": "Releasing flower lanterns",
+        "rit3": "Offering incense",
+        "rit4": "Bong Dance & Van Singing",
+        "rit5": "Water fetching",
+        "rit6": "Displaying fruit trays"
+      },
+      "img_caption": "Traditional rituals during the Po Nagar festival season"
+    },
+    "ch8": {
+      "label": "VIDEO LIBRARY",
+      "title": "Videos about Po Nagar Temple",
+      "deck": "See closer — hear deeper",
+      "v1_title": "Cham architecture at Po Nagar Temple",
+      "v1_desc": "Outstanding features in architecture and sculpture of Po Nagar Towers — the most famous Cham monument in Vietnam.",
+      "v2_title": "Kate Festival - intangible cultural heritage of Cham people",
+      "v2_desc": "A closer look at ritual practices, community identity, and the vitality of Cham intangible heritage."
+    },
+    "ch9": {
+      "label": "HISTORY & CULTURE",
+      "title": "Suggestions for Visitors",
+      "deck": "Promoting heritage values",
+      "p1": "When visiting Po Nagar Temple, visitors should take time to walk slowly through each layer of space: from Mandapa, steps, Main Tower, sub-towers, to the stele area and scenic viewpoint. Observe the red brick architecture, listen to stories about Goddess Po Nagar, learn about the temple festival, and feel the peace in a heritage that has accompanied Khanh Hoa for over a thousand years.",
+      "p2": "Coming to Po Nagar Temple is not just about visiting an ancient structure, but touching the memories of Champa, understanding the Mother of the Land belief, and appreciating the cultural intersection in the land of Nha Trang — Khanh Hoa.",
+      "quote": "Walk slowly, look closely at each brick layer, stop before the incense smoke, and let this space tell its own story.",
+      "btn_back": "About Cham Culture",
+      "btn_video": "Watch video",
+      "img_caption": "Po Nagar Temple by the Cai River"
+    }
+  },
+  "hoalai": {
+    "nav": {
+      "tong_quan": "Overview",
+      "lich_su": "History",
+      "ba_thap": "Three Towers",
+      "hoa_van": "Patterns",
+      "bao_ton": "Preservation",
+      "home_aria": "Back to top of Hoa Lai Towers"
+    }
+  },
+  "poklong": {
+    "nav": {
+      "tong_quan": "Overview",
+      "vua_thieng": "Sacred King",
+      "quan_the": "Complex",
+      "kien_truc": "Architecture",
+      "le_hoi": "Festival",
+      "home_aria": "Back to top of Po Klong Garai Temple"
+    }
+  },
+  "porome": {
+    "nav": {
+      "tong_quan": "Overview",
+      "vi_vua": "The King",
+      "quan_the": "Complex",
+      "thap_chinh": "Main Tower",
+      "le_hoi": "Festival",
+      "home_aria": "Back to top of Po Rome Temple"
+    }
+  },
+  "blog": {
+    "list_label": "ARTICLES & DOCUMENTATION",
+    "list_title": "Cham Cultural Heritage",
+    "list_subtitle": "A journey through stories, art, and the historical depth of Champa through writing.",
+    "empty": "No articles published yet.",
+    "empty_sub": "Please check back later for the latest content.",
+    "read_more": "Read more",
+    "new_label": "New",
+    "back_link": "Back to Cham cultural heritage",
+    "back_all": "All articles",
+    "related_title": "Other articles",
+    "meta_title": "Cham Cultural Heritage",
+    "meta_desc": "Stories, in-depth research, and multi-dimensional views on Cham cultural heritage."
+  }
+}

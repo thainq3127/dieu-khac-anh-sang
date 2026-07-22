@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "title": "Văn hóa Chăm — Khánh Hòa · Di sản sống",
+    "desc": "Di sản sống trong dòng chảy Việt Nam — hành trình khám phá văn hóa Chăm tại Khánh Hòa."
+  },
+  "common": {
+    "heritage_label": "Di sản sống",
+    "home": "Trang chủ",
+    "nav_ponagar": "Tháp Po Nagar",
+    "nav_hoalai": "Tháp Hòa Lai",
+    "nav_poklong": "Tháp Pô Klong Garai",
+    "nav_porome": "Tháp Pô Rômê",
+    "blog": "Di sản văn hóa Chăm",
+    "nav_aria_label": "Chuyển nhanh giữa các không gian",
+    "home_aria": "Về đầu trang",
+    "home_brand_aria": "Về trang chủ",
+    "main_nav_aria": "Điều hướng chính",
+    "ponagar_nav_aria": "Điều hướng Tháp Bà Ponagar",
+    "menu_open": "Mở menu",
+    "menu_close": "Đóng menu",
+    "nav_drawer_aria": "Điều hướng mở rộng",
+    "nav_drawer_main": "Văn hóa Chăm",
+    "nav_drawer_ponagar": "Po Nagar",
+    "nav_drawer_video": "Video",
+    "seo_nav_aria": "Di tích Chăm nổi bật",
+    "seo_ponagar": "Tháp Bà Ponagar",
+    "seo_ponagar_alt": "Tháp Ponagar",
+    "seo_poklong": "Tháp Po Klong Garai",
+    "seo_hoalai": "Tháp Hòa Lai",
+    "seo_museum": "Bảo tàng Tỉnh",
+    "footer_brand": "Văn hóa Chăm · Khánh Hòa",
+    "footer_tagline": "Di sản sống trong dòng chảy Việt Nam",
+    "footer_nav_aria": "Điều hướng footer",
+    "footer_credit": "Lưu trữ di sản số · 2026",
+    "footer_dept": "Sở Văn hóa, Thể thao và Du lịch tỉnh Khánh Hoà",
+    "footer_email": "Email: svhttdl@khanhhoa.gov.vn",
+    "footer_hotline": "Hotline: 0258.3822229",
+    "footer_madeby": "Thực hiện bởi: Các chuyên gia, Sở VHTT&DL tỉnh Khánh Hòa và công nghệ số TDM",
+    "header_title_nav": "Di sản văn hóa Chăm tại tỉnh Khánh Hòa",
+    "video_lightbox_aria": "Xem video",
+    "video_lightbox_close": "Đóng video",
+    "heritage_3d_lightbox_aria": "Xem di sản 3D",
+    "heritage_3d_lightbox_close": "Đóng di sản 3D",
+    "lang_selector_aria": "Chọn ngôn ngữ",
+    "marquee3": {
+      "item1": "Sắc màu Chăm",
+      "item2": "Di sản sống",
+      "item3": "Tỏa sáng cùng thời gian",
+      "item4": "Khánh Hòa 2026",
+      "item5": "Ngày hội Văn hóa Chăm lần thứ VI"
+    }
+  },
+  "main": {
+    "nav": {
+      "khong_gian": "Không gian",
+      "thap_cham": "Tháp Chăm",
+      "di_san": "Di sản",
+      "hanh_trinh": "Hành trình",
+      "video": "Video"
+    },
+    "hero": {
+      "dateline": "Khánh Hòa · Việt Nam · 2026",
+      "title": "Văn hóa Chăm",
+      "deck": "Di sản sống trong dòng chảy Việt Nam",
+      "btn_3d": "Di sản 3D",
+      "scroll_cue": "Cuộn xuống"
+    },
+    "features": {
+      "aria_label": "Giá trị cốt lõi của di sản Chăm",
+      "arch_title": "Kiến trúc ngàn năm",
+      "arch_desc": "Tháp Chăm linh thiêng",
+      "heritage_title": "Di sản sống",
+      "heritage_desc": "Lễ hội & nghệ thuật",
+      "craft_title": "Làng nghề truyền thống",
+      "craft_desc": "Gốm Bàu Trúc · Dệt Mỹ Nghiệp",
+      "preserve_title": "Bảo tồn bền vững",
+      "preserve_desc": "Cộng đồng làm chủ di sản"
+    },
+    "marquee1": {
+      "item1": "Văn hóa Chăm · Khánh Hòa 2026",
+      "item2": "Di sản sống · Lễ hội Katê",
+      "item3": "Tháp Bà Ponagar · Pô Klong Garai",
+      "item4": "Gốm Bàu Trúc · Dệt Mỹ Nghiệp",
+      "item5": "Chào mừng Ngày hội Văn hóa Chăm lần thứ VI"
+    },
+    "intro": {
+      "sr1": "Văn hóa Chăm là một phần đặc sắc trong nền văn hóa Việt Nam thống nhất và đa dạng.",
+      "sr2": "\"Chào mừng Lễ Khai mạc Ngày hội Văn hóa dân tộc Chăm lần thứ VI năm 2026, tại tỉnh Khánh Hòa\"",
+      "label": "Tinh hoa di sản",
+      "pull": "Mỗi lễ hội, mỗi điệu múa, mỗi tiếng trống Ginăng — là cách cộng đồng kể lại ký ức, niềm tin và bản sắc của mình."
+    },
+    "ch1": {
+      "label": "LỊCH SỬ & VĂN HÓA",
+      "title": "Không gian văn hóa Chăm",
+      "deck": "Từ miền tháp nắng đến cộng đồng hôm nay",
+      "p1": "Không gian văn hóa Chăm trải dài qua nhiều vùng đất, đặc biệt là các địa phương có cộng đồng Chăm sinh sống như Khánh Hòa, Gia Lai, Đắk Lắk, Lâm Đồng, Tây Ninh, An Giang và TP. Hồ Chí Minh. Mỗi vùng mang một sắc thái riêng, tạo nên bức tranh văn hóa đa dạng giữa miền núi, đồng bằng, duyên hải và Nam Bộ.",
+      "p2": "Trong không gian ấy, Khánh Hòa được nhấn mạnh như một địa bàn giàu dấu ấn Chăm với những di sản tiêu biểu như Tháp Bà Ponagar, không gian Xóm Bóng, các lễ hội, làng nghề và hoạt động giao lưu văn hóa. Đây là nơi di sản không chỉ được nhìn ngắm, mà còn được thực hành, trình diễn, trao truyền và giới thiệu tới công chúng trong nước, quốc tế.",
+      "quote": "\"Di sản không chỉ được nhìn ngắm, mà còn được thực hành, trình diễn, trao truyền.\"",
+      "img1_caption": "Không gian tháp Chăm tại Khánh Hòa",
+      "img2_caption": "Chức sắc Chăm thực hiện nghi thức áo choàng",
+      "img3_caption": "Cộng đồng trong lễ hội sau nghi thức tại tháp",
+      "img4_caption": "Lễ tế truyền thống trong không gian văn hóa Chăm",
+      "img_gallery_aria": "Không gian hình ảnh di sản"
+    },
+    "marquee2": {
+      "item1": "Tháp Bà Ponagar",
+      "item2": "Pô Klong Garai",
+      "item3": "Tháp Hòa Lai",
+      "item4": "Lễ hội Katê",
+      "item5": "Múa Apsara",
+      "item6": "Gốm Bàu Trúc",
+      "item7": "Dệt thổ cẩm Mỹ Nghiệp",
+      "item8": "Trống Ginăng & Baranưng",
+      "item9": "Kèn Saranai",
+      "item10": "Đàn Kanhi"
+    },
+    "ch2": {
+      "label": "KIẾN TRÚC & TÍN NGƯỠNG",
+      "title": "Tháp Chăm",
+      "deck": "Ký ức bằng gạch đỏ và niềm tin",
+      "p1": "Tháp Chăm là biểu tượng nổi bật của di sản văn hóa Chăm. Những công trình như Tháp Bà Ponagar, Pô Klong Garai và các cụm tháp Chăm trên dải duyên hải miền Trung không chỉ có giá trị kiến trúc, mỹ thuật, mà còn là không gian linh thiêng gắn với tín ngưỡng, huyền thoại và đời sống tinh thần của cộng đồng.",
+      "p2": "Mỗi ngọn tháp là một \"bảo tàng mở\" lưu giữ dấu ấn của kỹ thuật xây dựng, nghệ thuật tạo hình, biểu tượng thần linh và ký ức cộng đồng. Bảo tồn tháp Chăm không chỉ là tu bổ vật chất công trình, mà còn cần gìn giữ bối cảnh văn hóa xung quanh: nghi lễ, lễ hội, câu chuyện dân gian, sinh hoạt cộng đồng và cách người Chăm tiếp tục gắn bó với di sản của mình.",
+      "img1_caption": "Hoàng hôn trên di tích Tháp Bà Pô Nagar",
+      "img2_caption": "Tháp Pô Klong Garai — di tích quốc gia đặc biệt",
+      "img3_caption": "Tháp Hòa Lai — kiến trúc Chăm cổ kính"
+    },
+    "ch3": {
+      "label": "DI SẢN PHI VẬT THỂ",
+      "title": "Di sản phi vật thể",
+      "deck": "Lễ hội, âm nhạc và bàn tay nghệ nhân",
+      "p1": "Văn hóa Chăm tỏa sáng mạnh mẽ qua các di sản phi vật thể: lễ hội Katê, dân ca, dân vũ, múa quạt, múa đội nước, múa đội lửa, múa Apsara, múa trống, múa khăn, cùng hệ thống nhạc cụ truyền thống như trống Ginăng, trống Baranưng, kèn Saranai, đàn Kanhi, chiêng và chập chõa.",
+      "p2": "Bên cạnh nghệ thuật trình diễn, các làng nghề như gốm Bàu Trúc, dệt thổ cẩm Mỹ Nghiệp cũng là những \"mạch sống\" quan trọng của di sản. Ở đó, nghệ nhân không chỉ làm ra sản phẩm, mà còn giữ lại tri thức, kỹ năng, thẩm mỹ và ký ức nghề truyền qua nhiều thế hệ. Di sản Chăm vì vậy cần được bảo tồn bằng cách tôn vinh nghệ nhân, tạo không gian thực hành, hỗ trợ truyền nghề và đưa các giá trị truyền thống đến gần hơn với công chúng trẻ.",
+      "tag_aria_label": "Giá trị di sản phi vật thể",
+      "tags": {
+        "tag1": "Nghề truyền thống",
+        "tag2": "Bảo tồn tri thức",
+        "tag3": "Tôn vinh nghệ nhân",
+        "tag4": "Tiếp cận công chúng",
+        "tag5": "Lễ hội Katê",
+        "tag6": "Gốm Bàu Trúc",
+        "tag7": "Dệt Mỹ Nghiệp"
+      },
+      "img_caption": "Cộng đồng Chăm trong nghi lễ truyền thống"
+    },
+    "ch4": {
+      "label": "DU LỊCH DI SẢN",
+      "title": "Văn hóa Chăm trong du lịch di sản",
+      "deck": "Phát huy giá trị di sản",
+      "p1": "Văn hóa Chăm có tiềm năng lớn để phát triển du lịch di sản thông qua các tuyến tham quan tháp cổ, làng nghề, lễ hội, trình diễn nghệ thuật, trải nghiệm ẩm thực và giao lưu cộng đồng. Những giá trị như Tháp Bà Ponagar, Pô Klong Garai, gốm Bàu Trúc, dệt Mỹ Nghiệp, âm nhạc và múa dân gian có thể trở thành điểm nhấn hấp dẫn đối với du khách trong nước và quốc tế.",
+      "p2": "Tuy nhiên, phát triển du lịch cần đi cùng bảo tồn bền vững: tôn trọng không gian thiêng, tránh thương mại hóa quá mức, bảo đảm quyền tham gia và lợi ích của cộng đồng Chăm. Du lịch chỉ thật sự có giá trị khi giúp di sản được hiểu đúng, được gìn giữ tốt hơn và mang lại sinh kế chính đáng cho người dân.",
+      "img1_caption": "Nghi lễ Kareh mở ra trải nghiệm văn hóa Chăm",
+      "img2_caption": "Nghệ nhân giới thiệu sản phẩm gốm truyền thống",
+      "img3_caption": "Nghệ nhân biểu diễn trống Ginăng trong lễ Katê",
+      "img4_caption": "Theo dấu tháp cổ trong hành trình du lịch Chăm",
+      "img5_caption": "Trải nghiệm di sản sống của cộng đồng Chăm",
+      "img6_caption": "Du khách cùng gìn giữ bản sắc văn hóa Chăm"
+    },
+    "quote_break": "Di sản Chăm chỉ thật sự sống khi cộng đồng được tham gia, tự hào và hưởng lợi từ chính giá trị văn hóa của mình. Bảo tồn không phải để giữ quá khứ trong khuôn khổ tĩnh, mà để văn hóa Chăm tiếp tục hiện diện, kể chuyện và tỏa sáng trong đời sống hôm nay.",
+    "ch5": {
+      "label": "PHÁT HUY GIÁ TRỊ",
+      "title": "Bảo tồn và phát huy",
+      "deck": "Để sắc màu Chăm tiếp tục tỏa sáng",
+      "p1": "Bảo tồn văn hóa Chăm trong thời kỳ mới cần được nhìn từ góc độ phát triển bền vững: giữ gìn bản sắc, tôn trọng cộng đồng chủ thể, đồng thời tạo điều kiện để di sản tham gia vào giáo dục, du lịch văn hóa, truyền thông số và giao lưu sáng tạo. Di sản chỉ thật sự sống khi cộng đồng được tham gia, được tự hào và được hưởng lợi từ chính giá trị văn hóa của mình.",
+      "img_caption": "Khai mạc Lễ hội Tháp Bà Pô Nagar với trình diễn nghệ thuật Chăm"
+    },
+    "ch6": {
+      "label": "HÀNH TRÌNH TRẢI NGHIỆM",
+      "title": "Hành trình du lịch",
+      "deck": "Ba chặng — một di sản",
+      "j1_num": "I.",
+      "j1_title": "Theo dấu tháp cổ",
+      "j1_desc": "Khám phá những công trình tháp Chăm linh thiêng, nơi lưu giữ ký ức lịch sử, tín ngưỡng và dấu ấn kiến trúc đặc sắc.",
+      "j2_num": "II.",
+      "j2_title": "Chạm vào di sản sống",
+      "j2_desc": "Trải nghiệm làng nghề, lễ hội, âm nhạc, trang phục và đời sống cộng đồng Chăm trong không gian văn hóa bản địa.",
+      "j3_num": "III.",
+      "j3_title": "Cùng gìn giữ bản sắc",
+      "j3_desc": "Mỗi điểm đến không chỉ để tham quan, mà còn để hiểu, trân trọng và chung tay bảo tồn giá trị văn hóa Chăm hôm nay.",
+      "story": "Hành trình du lịch văn hóa Chăm tại Khánh Hòa mở ra chuyến đi từ Tháp Bà Pô Nagar linh thiêng bên sông Cái đến những không gian tháp cổ, làng nghề và lễ hội giàu bản sắc. Du khách được chiêm ngưỡng kiến trúc gạch đỏ, lắng nghe câu chuyện về Mẹ xứ sở, theo dấu Pô Klong Garai, rồi chạm vào đời sống di sản qua gốm Bàu Trúc và dệt thổ cẩm Mỹ Nghiệp. Nếu đến đúng mùa Katê, hành trình trở thành cuộc gặp gỡ với âm nhạc, nghi lễ và cộng đồng. Đây không chỉ là chuyến tham quan, mà là trải nghiệm học cách hiểu, tôn trọng và cùng gìn giữ văn hóa Chăm."
+    },
+    "video_section": {
+      "label": "THƯ VIỆN VIDEO",
+      "title": "Thư viện Video",
+      "deck": "Nhìn gần hơn — nghe sâu hơn",
+      "v1_tag": "YouTube",
+      "v1_title": "Khám phá vẻ đẹp di sản tháp Chăm ở Khánh Hòa | THDT",
+      "v1_desc": "Góc nhìn của Đài Phát thanh Truyền hình Đồng Tháp về di sản kiến trúc Chăm tại Khánh Hòa.",
+      "v1_aria": "Phát video: Khám phá vẻ đẹp di sản tháp Chăm ở Khánh Hòa | THDT",
+      "v1_img_alt": "Xem video: Khám phá vẻ đẹp di sản tháp Chăm ở Khánh Hòa | THDT",
+      "v2_tag": "YouTube",
+      "v2_title": "Kiến trúc Chăm ở tháp bà Ponagar",
+      "v2_desc": "Nét đặc sắc trong kiến trúc và điêu khắc của Tháp Bà Ponagar — di tích Chăm nổi tiếng nhất Việt Nam.",
+      "v2_aria": "Phát video: Kiến trúc Chăm ở tháp bà Ponagar",
+      "v2_img_alt": "Xem video: Kiến trúc Chăm ở tháp bà Ponagar",
+      "v3_tag": "YouTube",
+      "v3_title": "Lễ hội Katê - di sản văn hóa phi vật thể của người Chăm",
+      "v3_desc": "Lễ hội lớn nhất, đặc sắc nhất của người Chăm — được công nhận di sản văn hóa phi vật thể quốc gia.",
+      "v3_aria": "Phát video: Lễ hội Katê - di sản văn hóa phi vật thể của người Chăm",
+      "v3_img_alt": "Xem video: Lễ hội Katê - di sản văn hóa phi vật thể của người Chăm",
+      "v4_tag": "YouTube",
+      "v4_title": "Khám phá nguồn gốc và văn hóa Dân tộc Chăm",
+      "v4_desc": "Hành trình khám phá lịch sử, nguồn gốc và những nét văn hóa độc đáo của dân tộc Chăm.",
+      "v4_aria": "Phát video: Khám phá nguồn gốc và văn hóa Dân tộc Chăm",
+      "v4_img_alt": "Xem video: Khám phá nguồn gốc và văn hóa Dân tộc Chăm"
+    },
+    "closing": {
+      "label": "KỶ NGUYÊN SỐ",
+      "title": "Lan tỏa di sản Chăm trong kỷ nguyên số",
+      "p1": "Trong thời kỳ mới, văn hóa Chăm cần được lan tỏa qua các hình thức gần gũi như website, bản đồ số, triển lãm số, phim tư liệu, thư viện hình ảnh, video ngắn, thuyết minh đa ngôn ngữ và chương trình giáo dục di sản.",
+      "p2": "Số hóa không thay thế di sản gốc, mà giúp di sản được lưu trữ, tiếp cận và lan tỏa rộng hơn. Khi tháp cổ, lễ hội, âm nhạc, làng nghề và câu chuyện cộng đồng được trình bày sinh động trên môi trường số, văn hóa Chăm sẽ đến gần hơn với thế hệ trẻ, du khách và bạn bè quốc tế.",
+      "sig": "Sắc màu Chăm – Di sản sống, tỏa sáng cùng thời gian.",
+      "img_caption": "Tháp Bà Pô Nagar bên sông Cái trong ánh chiều"
+    }
+  },
+  "ponagar": {
+    "nav": {
+      "tong_quan": "Tổng quan",
+      "nu_than": "Nữ thần",
+      "hanh_trinh": "Hành trình",
+      "thap_chinh": "Tháp chính",
+      "le_hoi": "Lễ hội",
+      "home_aria": "Về đầu trang Tháp Po Nagar"
+    },
+    "hero": {
+      "dateline": "Dấu chân Champa · Khánh Hòa",
+      "title": "Tháp Po Nagar",
+      "deck": "Mẹ xứ sở trên đồi Cù Lao"
+    },
+    "features": {
+      "aria_label": "Ba lớp ý nghĩa của Tháp Bà Ponagar",
+      "mother_title": "Mẹ",
+      "mother_desc": "Yang Pô Inư Nagar — Mẹ xứ sở của người Chăm.",
+      "land_title": "Đất",
+      "land_desc": "Thiên Y A Na Thánh Mẫu — hình tượng Việt hóa của tín ngưỡng thờ Mẫu.",
+      "life_title": "Sự sống",
+      "life_desc": "Giao thoa văn hóa Việt — Chăm bên sông Cái và vùng duyên hải Khánh Hòa."
+    },
+    "marquee": {
+      "item1": "Tháp Bà Ponagar · Nha Trang",
+      "item2": "Yang Pô Inư Nagar · Thiên Y A Na",
+      "item3": "Đồi Cù Lao · Sông Cái",
+      "item4": "Mandapa · Hàng cột gạch",
+      "item5": "Lễ hội Tháp Bà · Di sản sống"
+    },
+    "quote_break": {
+      "label": "LẮNG NGHE DI SẢN",
+      "quote": "Đừng chỉ nhìn Tháp Bà như một điểm tham quan ở Nha Trang. Hãy đến như một người lắng nghe — để thấy gạch đỏ, khói hương và dòng sông Cái cùng kể một câu chuyện ngàn năm."
+    },
+    "ch1": {
+      "label": "DẤU CHÂN CHAMPA",
+      "title": "Tháp Bà Ponagar",
+      "deck": "Một không gian tâm linh, kiến trúc và ký ức cộng đồng",
+      "p1": "Giữa nhịp sống sôi động của thành phố biển Nha Trang, Tháp Bà Ponagar hiện lên như một miền ký ức cổ xưa, nơi lưu giữ dấu ấn văn hóa Chămpa qua kiến trúc, tín ngưỡng, điêu khắc và lễ hội. Đây không chỉ là một điểm tham quan nổi tiếng của Khánh Hòa, mà còn là không gian linh thiêng gắn với tín ngưỡng thờ Nữ thần Ponagar — Mẹ Xứ sở của người Chăm.",
+      "p2": "Từ đồi Cù Lao nhìn xuống sông Cái, quần thể di tích mở ra nhiều lớp đọc: một công trình cổ, một nơi hành lễ, một điểm hẹn ký ức và cũng là biểu tượng văn hóa tiêu biểu của Khánh Hòa hôm nay.",
+      "img1_caption": "Toàn cảnh Tháp Bà trên đồi Cù Lao",
+      "img2_caption": "Bậc thang dẫn lên khu tháp",
+      "img3_caption": "Hàng cột gạch của Mandapa",
+      "img4_caption": "Phù điêu và lớp gạch cổ",
+      "fact1_num": "VIII–XIII",
+      "fact1_desc": "Giai đoạn xây dựng chính của di tích, phản ánh thời kỳ phát triển rực rỡ của văn hóa Chămpa.",
+      "fact2_num": "4 tháp",
+      "fact2_desc": "Dấu tích kiến trúc Chăm còn lại rõ nét nhất trong quần thể hiện nay.",
+      "fact3_num": "20–23/3 AL",
+      "fact3_desc": "Lễ hội Tháp Bà hằng năm, nơi di sản tiếp tục sống trong cộng đồng.",
+      "fact4_num": "2012",
+      "fact4_desc": "Lễ hội Tháp Bà Ponagar được đưa vào danh mục Di sản văn hóa phi vật thể Quốc gia.",
+      "img_gallery_aria": "Không gian hình ảnh Tháp Bà Ponagar"
+    },
+    "ch2": {
+      "label": "LỊCH SỬ & VĂN HÓA",
+      "title": "Nữ thần Ponagar là ai?",
+      "deck": "Mẹ xứ sở — từ Yang Pô Inư Nagar đến Thiên Y A Na",
+      "p1": "Điểm đặc biệt của Tháp Bà là sự giao hòa văn hóa Việt — Chăm. Tín ngưỡng thờ Mẹ Xứ sở của người Chăm về sau được người Việt tiếp nhận, Việt hóa thành tín ngưỡng thờ Thiên Y A Na Thánh Mẫu.",
+      "p2": "Vì vậy, Tháp Bà không chỉ là di tích của người Chăm, mà còn là không gian tâm linh chung, nơi nhiều thế hệ cư dân Khánh Hòa gửi gắm niềm tin, lòng biết ơn và ước vọng bình an.",
+      "p1_label": "Mẹ",
+      "p1_title": "Yang Pô Inư Nagar",
+      "p1_desc": "Hình tượng Mẹ xứ sở trong tín ngưỡng Chăm, gắn với sự sinh thành, che chở và bảo hộ cộng đồng.",
+      "p2_label": "Đất",
+      "p2_title": "Thiên Y A Na Thánh Mẫu",
+      "p2_desc": "Sự tiếp nhận và Việt hóa cho thấy Tháp Bà là điểm giao thoa hiếm có của lịch sử, tôn giáo và cư dân bản địa.",
+      "p3_label": "Sự sống",
+      "p3_title": "Không gian tâm linh chung",
+      "p3_desc": "Nơi tín ngưỡng Việt — Chăm cùng hiện diện, tiếp nối qua nghi lễ, lễ hội và ký ức sống của vùng duyên hải."
+    },
+    "ch3": {
+      "label": "LỊCH SỬ & VĂN HÓA",
+      "title": "Hành trình về miền di sản",
+      "deck": "Phát huy giá trị di sản",
+      "p1": "Vị trí của Tháp Bà rất đặc biệt: trên đồi Cù Lao, gần cửa sông Cái, nhìn ra không gian biển Nha Trang. Đây là điểm giao của cảnh quan, cư trú, thương mại và tín ngưỡng, thuộc vùng Kauthara xưa.",
+      "p2": "Di tích có niên đại khoảng từ thế kỷ VIII đến thế kỷ XIII, phản ánh thời kỳ phát triển rực rỡ của văn hóa Chămpa trên dải đất miền Trung. Trải qua hơn nghìn năm, khu tháp vẫn giữ được vẻ uy nghi, cổ kính và trở thành một trong những biểu tượng văn hóa — tâm linh tiêu biểu của Khánh Hòa."
+    },
+    "ch4": {
+      "label": "LỊCH SỬ & VĂN HÓA",
+      "title": "Mandapa – Nơi bắt đầu nghi lễ",
+      "deck": "Kiến trúc độc đáo",
+      "p1": "Mandapa là khu vực nổi bật với hệ thống cột gạch lớn, gồm các hàng cột tạo nên cảm giác trang nghiêm và cổ kính. Đây được cho là nơi tín đồ chuẩn bị lễ vật trước khi lên khu đền tháp phía trên.",
+      "p2": "Không gian Mandapa là điểm dừng chân lý tưởng để du khách quan sát kỹ thuật xây gạch Chăm, cảm nhận trục hành lễ cổ và hình dung về những nghi thức từng diễn ra nơi đây.",
+      "img_caption": "Mandapa — nơi bắt đầu nghi lễ",
+      "note1_title": "Trục hành lễ",
+      "note1_desc": "Từ không gian chuẩn bị đến khu thờ tự linh thiêng, hành trình được tổ chức rất rõ ràng.",
+      "note2_title": "Hàng cột gạch",
+      "note2_desc": "Một trong những hình ảnh đặc trưng nhất của Ponagar, cho cảm giác cổ kính và đầy nhịp điệu kiến trúc.",
+      "note3_title": "Không gian chuyển tiếp",
+      "note3_desc": "Nơi du khách dễ nhận ra cách người Chăm tổ chức nghi lễ và phân lớp không gian tín ngưỡng."
+    },
+    "ch5": {
+      "label": "LỊCH SỬ & VĂN HÓA",
+      "title": "Tháp Chính – Trái tim của di tích",
+      "deck": "Kiến trúc độc đáo",
+      "p1": "Tháp Chính là công trình trung tâm và quan trọng nhất trong quần thể Tháp Bà Ponagar, cao khoảng 23 mét, nổi bật với dáng tháp vươn cao, khối gạch đỏ cổ kính và các đường nét kiến trúc đặc trưng của văn hóa Chăm.",
+      "p2": "Bên trong tháp đặt tượng thờ Nữ thần Ponagar — vị Mẹ Xứ sở trong tín ngưỡng Chăm, biểu tượng của sự sinh sôi, che chở, phúc lành và no đủ. Với người dân địa phương, đây không chỉ là một công trình kiến trúc cổ, mà còn là nơi gửi gắm niềm tin, lòng biết ơn và ước nguyện bình an qua nhiều thế hệ.",
+      "note1_title": "23m",
+      "note1_desc": "Chiều cao gần đúng của công trình trung tâm trong quần thể hiện còn.",
+      "note2_title": "Tượng thờ Mẫu",
+      "note2_desc": "Điểm tập trung chiều sâu tín ngưỡng, lòng thành và nghi lễ của cộng đồng.",
+      "note3_title": "Biểu tượng Khánh Hòa",
+      "note3_desc": "Một hình ảnh văn hóa — tâm linh gắn chặt với Nha Trang và vùng cửa sông Cái.",
+      "img_caption": "Tháp chính và lớp phù điêu thần linh"
+    },
+    "ch6": {
+      "label": "LỊCH SỬ & VĂN HÓA",
+      "title": "Nghệ thuật Chăm trên từng viên gạch",
+      "deck": "Kiến trúc độc đáo",
+      "card1_title": "Gạch nung ghép khít",
+      "card1_desc": "Kỹ thuật xây dựng đặc biệt của người Chăm khiến các khối gạch ôm khít nhau, tạo nên bề mặt tháp vừa chắc vừa giàu tính thẩm mỹ.",
+      "card2_title": "Cửa giả & vòm cửa",
+      "card2_desc": "Những chi tiết trên thân tháp tạo nhịp điệu cho mặt đứng, đồng thời giúp người xem cảm nhận rõ logic tạo hình của kiến trúc Chăm Pa.",
+      "card3_title": "Hoa văn thần linh",
+      "card3_desc": "Phù điêu Shiva múa, linh vật trang trí, bia ký Sanskrit và chữ Chăm cổ làm nên chiều sâu nghệ thuật và tôn giáo của di tích."
+    },
+    "symbol": {
+      "label": "BIỂU TƯỢNG",
+      "title": "Biểu tượng thần linh",
+      "deck": "Shiva, Linga — Yoni và thế giới biểu tượng Chăm",
+      "p1": "Phù điêu Shiva, biểu tượng Linga — Yoni, các linh vật và hoa văn trên thân tháp cho thấy ảnh hưởng Hindu giáo trong nghệ thuật Chăm Pa. Nhưng ở Tháp Bà, các biểu tượng ấy hòa vào tín ngưỡng Mẹ xứ sở, tạo nên sắc thái rất riêng.",
+      "card1_title": "Phù điêu Shiva",
+      "card1_desc": "Biểu tượng Hindu giáo hiện diện rõ trong nghệ thuật Chăm Pa và tạo điểm nhấn cho tầng nghĩa linh thiêng của di tích.",
+      "card2_title": "Linga — Yoni",
+      "card2_desc": "Biểu tượng sinh sôi, hòa vào tín ngưỡng Mẹ xứ sở, cho thấy sự dung hợp biểu tượng và thực hành tôn giáo.",
+      "card3_title": "Trang trí cửa tháp",
+      "card3_desc": "Linh vật và hoa văn trên thân tháp mở ra một thế giới thị giác giàu ngôn ngữ biểu tượng và ký hiệu văn hóa."
+    },
+    "ch7": {
+      "label": "LỊCH SỬ & VĂN HÓA",
+      "title": "Lễ hội Tháp Bà – Di sản sống của cộng đồng",
+      "deck": "Phát huy giá trị di sản",
+      "p1": "Hằng năm, Lễ hội Tháp Bà Ponagar diễn ra từ ngày 20 đến 23 tháng 3 âm lịch, là dịp người dân và du khách cùng hướng về Mẫu, tham gia các nghi thức truyền thống và cảm nhận không khí linh thiêng của di sản.",
+      "p2": "Lễ hội không chỉ làm sống lại ký ức tín ngưỡng, mà còn góp phần kết nối cộng đồng, bảo tồn bản sắc và lan tỏa giá trị giao lưu văn hóa Việt — Chăm trong đời sống hôm nay.",
+      "rituals_aria_label": "Các nghi lễ tiêu biểu của Lễ hội Tháp Bà",
+      "rituals": {
+        "rit1": "Thay y",
+        "rit2": "Thả hoa đăng",
+        "rit3": "Dâng hương",
+        "rit4": "Múa Bóng, hát Văn",
+        "rit5": "Rước nước",
+        "rit6": "Bày mâm hoa quả"
+      },
+      "img_caption": "Nghi lễ truyền thống trong mùa lễ Tháp Bà"
+    },
+    "ch8": {
+      "label": "THƯ VIỆN VIDEO",
+      "title": "Video về Tháp Bà Ponagar",
+      "deck": "Nhìn gần hơn — nghe sâu hơn",
+      "v1_title": "Kiến trúc Chăm ở tháp bà Ponagar",
+      "v1_desc": "Nét đặc sắc trong kiến trúc và điêu khắc của Tháp Bà Ponagar — di tích Chăm nổi tiếng nhất Việt Nam.",
+      "v2_title": "Lễ hội Katê - di sản văn hóa phi vật thể của người Chăm",
+      "v2_desc": "Một góc nhìn gần hơn về thực hành nghi lễ, bản sắc cộng đồng và sức sống của di sản phi vật thể Chăm."
+    },
+    "ch9": {
+      "label": "LỊCH SỬ & VĂN HÓA",
+      "title": "Gợi ý trải nghiệm cho du khách",
+      "deck": "Phát huy giá trị di sản",
+      "p1": "Khi đến Tháp Bà Ponagar, du khách nên dành thời gian đi chậm qua từng lớp không gian: từ Mandapa, các bậc lên tháp, Tháp Chính, các tháp phụ đến khu bia ký và điểm ngắm cảnh. Hãy quan sát kiến trúc gạch đỏ, lắng nghe câu chuyện về Nữ thần Pô Nagar, tìm hiểu lễ hội Tháp Bà và cảm nhận sự bình yên nơi một di sản đã đồng hành cùng Khánh Hòa qua hơn nghìn năm.",
+      "p2": "Đến Tháp Bà Ponagar không chỉ để tham quan một công trình cổ, mà để chạm vào ký ức Chămpa, hiểu thêm về tín ngưỡng Mẹ Xứ sở và trân trọng sự giao hòa văn hóa trên vùng đất Nha Trang — Khánh Hòa.",
+      "quote": "Hãy đi chậm, nhìn kỹ từng lớp gạch, dừng lại trước khói hương và để không gian này kể lại câu chuyện của mình.",
+      "btn_back": "Về Văn hóa Chăm",
+      "btn_video": "Xem video",
+      "img_caption": "Tháp Bà bên dòng sông Cái"
+    }
+  },
+  "hoalai": {
+    "nav": {
+      "tong_quan": "Tổng quan",
+      "lich_su": "Lịch sử",
+      "ba_thap": "Ba tháp",
+      "hoa_van": "Hoa văn",
+      "bao_ton": "Bảo tồn",
+      "home_aria": "Về đầu trang Tháp Hòa Lai"
+    }
+  },
+  "poklong": {
+    "nav": {
+      "tong_quan": "Tổng quan",
+      "vua_thieng": "Vua thiêng",
+      "quan_the": "Quần thể",
+      "kien_truc": "Kiến trúc",
+      "le_hoi": "Lễ hội",
+      "home_aria": "Về đầu trang Tháp Pô Klong Garai"
+    }
+  },
+  "porome": {
+    "nav": {
+      "tong_quan": "Tổng quan",
+      "vi_vua": "Vị vua",
+      "quan_the": "Quần thể",
+      "thap_chinh": "Tháp chính",
+      "le_hoi": "Lễ hội",
+      "home_aria": "Về đầu trang Tháp Pô Rômê"
+    }
+  },
+  "blog": {
+    "list_label": "BÀI VIẾT & TƯ LIỆU",
+    "list_title": "Di sản văn hóa Chăm",
+    "list_subtitle": "Hành trình khám phá những câu chuyện, nghệ thuật và chiều sâu lịch sử Champa qua trang viết.",
+    "empty": "Chưa có bài viết nào được đăng tải.",
+    "empty_sub": "Vui lòng quay lại sau để đón đọc những nội dung mới nhất.",
+    "read_more": "Đọc tiếp",
+    "new_label": "Mới",
+    "back_link": "Quay lại di sản văn hóa Chăm",
+    "back_all": "Tất cả bài viết",
+    "related_title": "Bài viết khác",
+    "meta_title": "Di sản văn hóa Chăm",
+    "meta_desc": "Những câu chuyện, nghiên cứu sâu sắc và góc nhìn đa chiều về di sản văn hóa Chăm."
+  }
+}
